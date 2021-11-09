@@ -1,5 +1,5 @@
 # STOCK MARKET PREPROCESSING
-- This is a freelance project (April,2020) done for a Pune based Stock Market firm.
+- This is a freelance project (April,2020) done for Mulitplactous Private Limited.
 - The project was about preprocessing stock values as desired by creating customized Jupyter Notebooks.
 
 ## File Descriptions : 
